@@ -1,6 +1,6 @@
 {
   "name": "taxtip",
-  "homepage":"https://antu4864.github.io/TaxTipsWeb/",
+  "homepage": "https://antu4864.github.io/TaxTipsWeb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

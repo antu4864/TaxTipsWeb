@@ -20,7 +20,7 @@ const App = () => {
     <> 
      
       <Switch>
-        <Route exact path='/' component={Menu} />
+        <Route exact path='/TaxTipsWeb' component={Menu} />
         <Route path='/Ca' component={Ca} />
         <Route path='/Cg' component={Cg} />
         <Route path='/Ct' component={Ct} />
