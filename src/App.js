@@ -1,24 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import {Route, Switch} from "react-router-dom";
+import Ca from "./Ca";
+import Cg from "./Cg";
+import Ct from "./Ct";
+import Dtc from "./Dtc";
+import It from "./It";
+import Lt from "./Lt";
+import Ni from "./Ni";
+import Pen from "./Pen";
+import Vat from "./Vat";
+import Vb from "./Vb";
+import Menu from "./Menu";
 
-function App() {
+  
+
+const App = () => {
+   
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <> 
+     
+      <Switch>
+        <Route exact path='/' component={Menu} />
+        <Route path='/Ca' component={Ca} />
+        <Route path='/Cg' component={Cg} />
+        <Route path='/Ct' component={Ct} />
+        <Route path='/Dtc' component={Dtc} />
+        <Route path='/It' component={It} />
+        <Route path='/Lt' component={Lt} />
+        <Route path='/Ni' component={Ni} />
+        <Route path='/Pen' component={Pen} />
+        <Route path='/Vat' component={Vat} />
+        <Route path='/Vb' component={Vb} />
+        
+      </Switch>
+ 
+   </>
   );
 }
 
