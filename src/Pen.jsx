@@ -1,11 +1,10 @@
 import React from 'react';
-import Header from './Header';
 
 const Pen=() => {
   return (
     
    <>
-    <Header/>
+  
     <div className="container1">
     <h2>Pensions</h2>
         <div className="container">

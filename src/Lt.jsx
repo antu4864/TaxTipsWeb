@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Lt=() => {
   return (
     
    <>
-    <Header/>
+   
     <div className="container1">
     <h2>Land Tax</h2>
         <div className="container">

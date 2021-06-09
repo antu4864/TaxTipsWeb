@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Ct=() => {
   return (
     
    <>
-    <Header/>
+   
     <div className="container1">
     <h2>Value Added Tax (VAT)</h2>
         <div className="container">

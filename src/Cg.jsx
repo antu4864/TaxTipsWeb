@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Cg=() => {
   return (
     
    <>
-    <Header/>
+  
     <div className="container1">
     <h2>Capital Gains Tax (CGT)</h2>
         <div className="container">

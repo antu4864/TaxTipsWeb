@@ -1,36 +1,36 @@
 import React from 'react';
 import { Link} from "react-router-dom";
-import Header from './Header';
+
 
 
 const Menu=() => {
   return (
    <>
   
-     <Header/>
+ 
      
           <div className='con'>
              <div >
                
-              <Link to="/Ca" className='Link'>Capital Allowances</Link>
+              <Link to="/Ca" className='Link'><div>Capital Allowances</div></Link>
               <hr/>
-              <Link to="/Cg" className='Link'>Capital Gains Tax (CGT)</Link>
+              <Link to="/Cg" className='Link'><div>Capital Gains Tax (CGT)</div></Link>
               <hr/>
-              <Link to="/Ct" className='Link'>Corporation Tax</Link>
+              <Link to="/Ct" className='Link'><div>Corporation Tax</div></Link>
               <hr/>
-              <Link to="/Dtc" className='Link'>Donations to Charity</Link>
+              <Link to="/Dtc" className='Link'><div>Donations to Charity</div></Link>
               <hr/>
-              <Link to="/It" className='Link'>Income Tax</Link>
+              <Link to="/It" className='Link'><div>Income Tax</div></Link>
               <hr/>
-              <Link to="/Lt" className='Link'>Land Tax</Link>
+              <Link to="/Lt" className='Link'><div>Land Tax</div></Link>
               <hr/>
-              <Link to="/Ni" className='Link'>National Insurance</Link>
+              <Link to="/Ni" className='Link'><div>National Insurance</div></Link>
               <hr/>
-              <Link to="/Pen" className='Link'>Pensions</Link>
+              <Link to="/Pen" className='Link'><div>Pensions</div></Link>
               <hr/>
-              <Link to="/Vat" className='Link'>Value Added Tax (VAT)</Link>
+              <Link to="/Vat" className='Link'><div>Value Added Tax (VAT)</div></Link>
               <hr/>
-              <Link to="/Vb" className='Link'>Vehicle Benefits</Link>
+              <Link to="/Vb" className='Link'><div>Vehicle Benefits</div></Link>
               <hr/>
              
             </div>        

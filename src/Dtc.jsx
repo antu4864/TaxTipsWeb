@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Dtc=() => {
   return (
     
    <>
-    <Header/>
+   
     <div className="container1">
     <h2>Donations to Charity</h2>
         <div className="container">

@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Ni=() => {
   return (
     
    <>
-    <Header/>
+ 
     <div className="container1">
     <h2>National Insurance</h2>
         <div className="container">
