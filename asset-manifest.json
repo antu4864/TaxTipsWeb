@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TaxTipsWeb/static/css/main.2af2633d.chunk.css",
-    "main.js": "/TaxTipsWeb/static/js/main.74b29d16.chunk.js",
-    "main.js.map": "/TaxTipsWeb/static/js/main.74b29d16.chunk.js.map",
+    "main.js": "/TaxTipsWeb/static/js/main.f001004c.chunk.js",
+    "main.js.map": "/TaxTipsWeb/static/js/main.f001004c.chunk.js.map",
     "runtime-main.js": "/TaxTipsWeb/static/js/runtime-main.269a4f46.js",
     "runtime-main.js.map": "/TaxTipsWeb/static/js/runtime-main.269a4f46.js.map",
     "static/js/2.f19be60f.chunk.js": "/TaxTipsWeb/static/js/2.f19be60f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.269a4f46.js",
     "static/js/2.f19be60f.chunk.js",
     "static/css/main.2af2633d.chunk.css",
-    "static/js/main.74b29d16.chunk.js"
+    "static/js/main.f001004c.chunk.js"
   ]
 }
