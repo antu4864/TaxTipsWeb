@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #000e50;
+  background: #2065FE;
 }
 
 code {
@@ -20,7 +20,7 @@ code {
 }
 
 .container1 {
-  background: #000e50;
+  background: #2065FE;
   color: white;
   padding-left: 16px;
   padding-right: 16px;
