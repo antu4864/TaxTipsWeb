@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TaxTipsWeb/static/css/main.2af2633d.chunk.css",
+    "main.css": "/TaxTipsWeb/static/css/main.9f9898ef.chunk.css",
     "main.js": "/TaxTipsWeb/static/js/main.f001004c.chunk.js",
     "main.js.map": "/TaxTipsWeb/static/js/main.f001004c.chunk.js.map",
     "runtime-main.js": "/TaxTipsWeb/static/js/runtime-main.269a4f46.js",
@@ -8,13 +8,13 @@
     "static/js/2.f19be60f.chunk.js": "/TaxTipsWeb/static/js/2.f19be60f.chunk.js",
     "static/js/2.f19be60f.chunk.js.map": "/TaxTipsWeb/static/js/2.f19be60f.chunk.js.map",
     "index.html": "/TaxTipsWeb/index.html",
-    "static/css/main.2af2633d.chunk.css.map": "/TaxTipsWeb/static/css/main.2af2633d.chunk.css.map",
+    "static/css/main.9f9898ef.chunk.css.map": "/TaxTipsWeb/static/css/main.9f9898ef.chunk.css.map",
     "static/js/2.f19be60f.chunk.js.LICENSE.txt": "/TaxTipsWeb/static/js/2.f19be60f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.269a4f46.js",
     "static/js/2.f19be60f.chunk.js",
-    "static/css/main.2af2633d.chunk.css",
+    "static/css/main.9f9898ef.chunk.css",
     "static/js/main.f001004c.chunk.js"
   ]
 }
