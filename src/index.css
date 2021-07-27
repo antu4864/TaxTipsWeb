@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #2065FE;
+  background: #2065fe;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 .container {
@@ -20,7 +20,7 @@ code {
 }
 
 .container1 {
-  background: #2065FE;
+  background: #2065fe;
   color: white;
   padding-left: 16px;
   padding-right: 16px;
@@ -47,7 +47,7 @@ code {
   padding-right: 16px;
   font-family: Roboto;
 }
-.ab{
+.ab {
   color: aliceblue;
   font-family: Roboto;
 }
